@@ -2,6 +2,9 @@
 
 This repository documents a research project analyzing the term **“ecosystem”** as it appears across Open Science discourses. Using LLM-powered NLP techniques and knowledge graph construction, the project maps the conceptual landscape surrounding ecological metaphors in scholarly literature.
 
+This work was conducted as part of a master’s internship under the supervision of **Dr. Simon Dumas-Primbault**, initiated at the **Laboratory for the History of Science and Technology (LHST), EPFL**, and continued at [**OpenEdition Lab, Marseille**](https://lab.hypotheses.org/the-ecosystem-of-open-science).
+
+
 ## Website
 
 Project page: [https://yagmurilba.github.io/Ecosytem-of-Open-Science/](https://yagmurilba.github.io/Ecosytem-of-Open-Science/)
@@ -37,14 +40,11 @@ Find interactive HTML visualizations in the `visualizations/` folder:
 
 ## License
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for full terms.
-
-## Citation
-
-If you use this work, please cite the preprint (forthcoming) or contact the author for citation information.
+This project is licensed under the **MIT License**.
 
 ## Contact
 
-Nil Yagmur Ilba  
-EPFL Digital Humanities  
-Email: yagmurilba@gmail.com
+**Nil Yagmur Ilba**  
+Master’s Student in Digital Humanities  
+École Polytechnique Fédérale de Lausanne (EPFL)  
+Email: nil.ilba@epfl.ch
